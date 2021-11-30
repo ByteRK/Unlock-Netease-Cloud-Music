@@ -1,0 +1,18 @@
+{
+    "apps": [
+        {
+            "name": "netease",
+            "script": "app.js",
+            "args": [
+                "-e",
+                "-p",
+                "1130",
+                "-o",
+                "kuwo",
+                "qq",
+                "migu"
+            ],
+            "autorestart": true
+        }
+    ]
+}
