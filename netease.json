@@ -4,7 +4,6 @@
             "name": "netease",
             "script": "app.js",
             "args": [
-                "-e",
                 "-p",
                 "1130",
                 "-o",
